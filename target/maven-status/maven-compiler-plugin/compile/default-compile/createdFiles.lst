@@ -1,0 +1,8 @@
+automaterijal\izvestaj\AutomaterijalIzvestajApplication.class
+automaterijal\izvestaj\domain\model\dto\VertikalaDto.class
+automaterijal\izvestaj\repository\VertikalaRepository.class
+automaterijal\izvestaj\domain\model\entity\Clanovi.class
+automaterijal\izvestaj\repository\ClanoviRepository.class
+automaterijal\izvestaj\domain\model\entity\Vertikala.class
+automaterijal\izvestaj\controller\VertikalaController.class
+automaterijal\izvestaj\service\VertikalaService.class
